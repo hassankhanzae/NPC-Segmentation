@@ -1,4 +1,5 @@
-# Patch based Segmentation of Nasophyrangeal Carcinoma with 3D Enhanced Unified U-Net
+# Patch-Based Enhanced Unified Net for Accurate Segmentation of Nasopharyngeal Carcinoma in 3D MR Images
+
 This repository includes the Nasophyrangeal Carcinoma Segmentation Python code utilized in our proposed study's analyses.  Only a limited amount of samples are available in this repository; the dataset is private and cannot be shared.
 Our code can run smoothly using these dependencies.
 1. Pytorch Implementation pytorch 11.9
