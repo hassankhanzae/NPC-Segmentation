@@ -14,4 +14,4 @@ This repository includes the Nasophyrangeal Carcinoma Segmentation Python code u
    
 Proposed model can be can be trained using main.ipynb jupyter notebook file. The predictive GTV mask folder contains the extrated slices segmentation results.
 
- Note: If you don't use the provided dependencies. You may face some errors in the code.
+**Note:** If you don't use the provided dependencies. You may face some errors in the code.
