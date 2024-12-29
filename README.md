@@ -4,4 +4,5 @@ Our code can run smoothly using these dependencies.
 1. Pytorch Implementation pytorch 11.9
 2. Cuda 12.3
 3. Jupyter Notebook 7.3
-Proposed model can be can be trained 
+   
+Proposed model can be can be trained using main.ipynb jupyter notebook file. The predictive GTV mask folder contains the extrated slices segmentation results.
