@@ -8,6 +8,7 @@ This repository includes the Nasophyrangeal Carcinoma Segmentation Python code u
 3. Jupyter Notebook 7.3
 
 > conda create -n your_env_name python=3.7
+> 
 > conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 
    
