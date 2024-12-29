@@ -9,7 +9,7 @@ This repository includes the Nasophyrangeal Carcinoma Segmentation Python code u
 
 > conda create -n your_env_name python=3.7
 > 
-> cconda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
+> conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
 
    
 Proposed model can be can be trained using main.ipynb jupyter notebook file. The predictive GTV mask folder contains the extrated slices segmentation results.
