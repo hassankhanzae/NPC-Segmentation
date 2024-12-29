@@ -16,10 +16,13 @@ Proposed model can be can be trained using main.ipynb jupyter notebook file. The
 
 **Note:** If you don't use the provided dependencies. You may face some errors in the code.
 
-**Experimented System**
+**Experimental Setup**
 
 ***GPU***   NVIDIA TITAN RTX GPU 
+
 ***RAM***   32G
+
 ***OS***    Linux
+
 ***Cuda***  12.3
 
